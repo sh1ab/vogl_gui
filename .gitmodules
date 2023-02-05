@@ -1,0 +1,3 @@
+[submodule "libs/vogl"]
+	path = libs/vogl
+	url = https://github.com/sh1ab/vogl
